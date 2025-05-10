@@ -131,17 +131,75 @@ graph LR
 </p>
 
 ## 🏆 Project Showcase
+
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%">
-      <h4>Federal Security Operations Center</h4>
-      <img src="https://via.placeholder.com/600x300?text=SOC+Dashboard" alt="Security Dashboard">
-      <p>FISMA-compliant monitoring system for federal agency</p>
+      <h4>Predictive Reporting System</h4>
+      <img src="1_predictive.jpg" alt="Predictive Analytics Dashboard">
+      <p>Advanced forecasting dashboard enabling 95% accurate inventory predictions for retail chains</p>
     </td>
     <td width="50%">
-      <h4>Healthcare Data Warehouse</h4>
-      <img src="https://via.placeholder.com/600x300?text=HIPAA+Analytics" alt="Healthcare Analytics">
-      <p>HIPAA-compliant data platform for hospital network</p>
+      <h4>Order Tracking Dashboard</h4>
+      <img src="2_traking.jpg" alt="Order Tracking Interface">
+      <p>Real-time logistics monitoring system reducing delivery inquiries by 40% for e-commerce platforms</p>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%">
+      <h4>Customer Experience Analytics</h4>
+      <img src="3_customer.jpg" alt="Customer Satisfaction Dashboard">
+      <p>Sentiment analysis platform correlating support interactions with NPS scores (+22% improvement)</p>
+    </td>
+    <td width="50%">
+      <h4>HR Performance Dashboard</h4>
+      <img src="4_Hr_dashboard.jpg" alt="HR Analytics Dashboard">
+      <p>Workforce analytics solution reducing attrition risk by identifying retention patterns</p>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%">
+      <h4>Sales Performance Dashboard</h4>
+      <img src="5_sales_dashboard.jpg" alt="Sales Metrics Visualization">
+      <p>Regional sales tracking system identifying $2.3M in untapped market opportunities</p>
+    </td>
+    <td width="50%">
+      <h4>Udemy Course Analysis</h4>
+      <img src="6_udemy_course.jpg" alt="Educational Platform Analytics">
+      <p>Subscription pattern analysis driving 35% better course recommendations for online learners</p>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td width="50%">
+      <h4>Spotify Top Song Analysis</h4>
+      <img src="7_spotify.jpg" alt="Music Streaming Analytics">
+      <p>Trend forecasting model predicting viral hits with 82% accuracy for music labels</p>
+    </td>
+    <td width="50%">
+      <h4>Fraud Detection Dashboard</h4>
+      <img src="8_fraud_dashboard.jpg" alt="Financial Fraud Monitoring">
+      <p>Anomaly detection system preventing $1.4M monthly in fraudulent transactions</p>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td width="50%">
+      <h4>Credit Card Finance Dashboard</h4>
+      <img src="9_credit_card.jpg" alt="Credit Analytics Dashboard">
+      <p>Spending pattern visualization reducing default risk by 28% for financial institutions</p>
+    </td>
+    <td width="50%">
+      <h4>Student Performance Tracker</h4>
+      <img src="10_student_performes.jpg" alt="Educational Analytics Dashboard">
+      <p>Learning outcome predictor helping institutions identify at-risk students 6 weeks earlier</p>
     </td>
   </tr>
 </table>
