@@ -206,6 +206,10 @@ graph LR
 
 <p align="center">
   <a href="https://www.sam.gov">
-    <img src="https://img.shields.io/badge/View_Our_SAM.gov_Profile-FF7139?style=for-the-badge&logo=government&logoColor=white" alt="SAM.gov Profile">
+    <img src="https://img.shields.io/badge/View_SAM.gov_Profile-FF7139?style=for-the-badge&logo=government&logoColor=white" alt="SAM.gov Profile">
+  </a>
+  &#8287;&#8287;
+  <a href="https://blinkwood-dallas.my.canva.site/blinkwood-tech-solutions">
+    <img src="https://img.shields.io/badge/View_More_Details-4285F4?style=for-the-badge&logo=canva&logoColor=white" alt="Blinkwood Solutions Portfolio">
   </a>
 </p>
